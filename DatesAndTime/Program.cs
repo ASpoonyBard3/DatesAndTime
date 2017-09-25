@@ -10,6 +10,9 @@ namespace DatesAndTime
     {
         static void Main(string[] args)
         {
+
+
+            Console.ReadLine();
         }
     }
 }
